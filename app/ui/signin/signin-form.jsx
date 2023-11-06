@@ -24,8 +24,6 @@ export default function SignInForm() {
       </div>
       <div className="flex justify-center items-center opacity-60 mb-2">
         <span>Don't have an account?</span>
-        &nbsp;
-        &nbsp;
         <Link
           href="/signup"
           className="font-normal"
