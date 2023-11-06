@@ -1,7 +1,9 @@
+import SignInForm from "../ui/signin/signin-form";
+
 export default function SignIn() {
   return (
-    <div>
-      <h1>SignIn Page</h1>
+    <div className="flex justify-center items-center h-full">
+      <SignInForm />
     </div>
   )
 }
