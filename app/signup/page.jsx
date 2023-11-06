@@ -1,7 +1,9 @@
+import SignUpForm from "../ui/signup/signup-form";
+
 export default function Page() {
   return (
-    <div>
-      <h1>SignUp Page</h1>
+    <div className="flex justify-center items-center h-full">
+      <SignUpForm />
     </div>
   )
 }
