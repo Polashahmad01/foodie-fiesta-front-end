@@ -23,7 +23,7 @@ export default function SignInForm() {
         <button className="w-full bg-[#F9FAFB] opacity-60 py-2 border rounded-md">Sign In</button>
       </div>
       <div className="flex justify-center items-center opacity-60 mb-2">
-        <span>Don't have an account?</span>
+        <span>Dont have an account?</span>
         <Link
           href="/signup"
           className="font-normal"
